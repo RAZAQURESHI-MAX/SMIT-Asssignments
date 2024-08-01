@@ -1,0 +1,232 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    overflow: hidden;
+}
+
+.main {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    /* background-color: black; */
+}
+
+.navParent {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    height: 8%;
+    padding: 5px;
+    /* background-color: rgb(193, 63, 63); */
+}
+
+.backParent {
+    display: flex;
+}
+
+.backParent:hover {
+    cursor: pointer;
+}
+
+.back {
+    font-size: 25px;
+}
+
+.back:hover {
+    text-decoration: underline;
+}
+
+.copyFormat {
+    background-color: black;
+    color: white;
+    display: flex;
+    align-items: center;
+    padding: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 10px;
+}
+
+.copyFormat:hover {
+    cursor: pointer;
+}
+
+.copy {
+    font-size: 13px;
+    font-weight: bold;
+}
+
+.sound {
+    font-size: 25px;
+}
+
+.sound:hover {
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.row-parent {
+    height: 100%;
+    width: 100%;
+}
+.row1 {
+    display: flex;
+    /* background-color: purple; */
+}
+
+.GOLDEN {
+    background-color: #eccc68;
+}
+
+.color {
+    width: 90%;
+    height: 100px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    padding: 1%;
+}
+
+.txt-align {
+    color: white;
+    font-weight: bold;
+}
+
+.CORAL {
+    background-color: #ff7f50;
+}
+
+.WILD {
+    background-color: #ff6b81;
+}
+
+.PEACE {
+    background-color: #a4b0be;
+}
+
+.GRISAILLE {
+    background-color: #57606f;
+
+}
+
+.row2 {
+    display: flex;
+    /* background-color: purple; */
+}
+
+.ORANGE {
+    background-color: #ffa502;
+}
+
+.color {
+    width: 90%;
+    height: 100px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    padding: 1%; 
+}
+
+.txt-align {
+    color: white;
+    font-weight: bold;
+}
+
+.TOMATO {
+    background-color: #ff6348;
+}
+
+.WATERMELON {
+    background-color: #ff4757;
+}
+
+.BAY {
+    background-color: #747d8c;
+}
+
+.PRESTIGE {
+    background-color: #2f3542;
+
+}
+.row3 {
+    display: flex;
+    /* background-color: purple; */
+}
+
+.LIME {
+    background-color: #7bed9f;
+}
+
+.color {
+    width: 90%;
+    height: 100px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    padding: 1%;
+}
+
+.txt-align {
+    color: white;
+    font-weight: bold;
+}
+
+.FRENCH {
+    background-color: #70a1ff;
+}
+
+.SATURATED {
+    background-color: #5352ed;
+}
+
+.WHITE {
+    background-color: #ffffff;
+}
+
+.CITY {
+    background-color: #dfe4ea;
+
+}
+.row4 {
+    display: flex;
+    /* background-color: purple; */
+}
+
+.UFO {
+    background-color: #2ed573;
+}
+
+.color {
+    width: 90%;
+    height: 100px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    padding: 1%;
+}
+
+.txt-align {
+    color: white;
+    font-weight: bold;
+}
+
+.CLEAR {
+    background-color: #1e90ff;
+}
+
+.BRIGHT {
+    background-color: #3742fa;
+}
+
+.ANTI {
+    background-color: #f1f2f6;
+}
+
+.TWINKLE {
+    background-color: #ced6e0;
+
+}

@@ -1,0 +1,232 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    overflow: hidden;
+}
+
+.main {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    /* background-color: black; */
+}
+
+.navParent {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    height: 8%;
+    padding: 5px;
+    /* background-color: rgb(193, 63, 63); */
+}
+
+.backParent {
+    display: flex;
+}
+
+.backParent:hover {
+    cursor: pointer;
+}
+
+.back {
+    font-size: 25px;
+}
+
+.back:hover {
+    text-decoration: underline;
+}
+
+.copyFormat {
+    background-color: black;
+    color: white;
+    display: flex;
+    align-items: center;
+    padding: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 10px;
+}
+
+.copyFormat:hover {
+    cursor: pointer;
+}
+
+.copy {
+    font-size: 13px;
+    font-weight: bold;
+}
+
+.sound {
+    font-size: 25px;
+}
+
+.sound:hover {
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.row-parent {
+    height: 100%;
+    width: 100%;
+}
+.row1 {
+    display: flex;
+    /* background-color: purple; */
+}
+
+.BEEKEEPER {
+    background-color: #f6e58d;
+}
+
+.color {
+    width: 90%;
+    height: 100px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    padding: 1%;
+}
+
+.txt-align {
+    color: white;
+    font-weight: bold;
+}
+
+.Spiced {
+    background-color: #ffbe76;
+}
+
+.Glamour {
+    background-color: #ff7979;
+}
+
+.June {
+    background-color: #badc58;
+}
+
+.Coastal {
+    background-color: #dff9fb;
+
+}
+
+.row2 {
+    display: flex;
+    /* background-color: purple; */
+}
+
+.TURBO {
+    background-color: #f9ca24;
+}
+
+.color {
+    width: 90%;
+    height: 100px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    padding: 1%; 
+}
+
+.txt-align {
+    color: white;
+    font-weight: bold;
+}
+
+.QUINCE {
+    background-color: #f0932b;
+}
+
+.CARMINE {
+    background-color: #eb4d4b;
+}
+
+.PURE {
+    background-color: #6ab04c;
+}
+
+.HINT {
+    background-color: #c7ecee;
+
+}
+.row3 {
+    display: flex;
+    /* background-color: purple; */
+}
+
+.MIDDLE {
+    background-color: #7ed6df;
+}
+
+.color {
+    width: 90%;
+    height: 100px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    padding: 1%;
+}
+
+.txt-align {
+    color: white;
+    font-weight: bold;
+}
+
+.HELIOTROPE {
+    background-color: #e056fd;
+}
+
+.EXODUS {
+    background-color: #686de0;
+}
+
+.DEEP {
+    background-color: #30336b;
+}
+
+.SOARING {
+    background-color: #95afc0;
+
+}
+.row4 {
+    display: flex;
+    /* background-color: purple; */
+}
+
+.GREEN {
+    background-color: #22a6b3;
+}
+
+.color {
+    width: 90%;
+    height: 100px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    padding: 1%;
+}
+
+.txt-align {
+    color: white;
+    font-weight: bold;
+}
+
+.STEEL {
+    background-color: #be2edd;
+}
+
+.BLURPLE {
+    background-color: #4834d4;
+}
+
+.DEEP {
+    background-color: #130f40;
+}
+
+.WIZARD {
+    background-color: #535c68;
+
+}

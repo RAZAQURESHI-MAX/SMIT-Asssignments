@@ -1,0 +1,232 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    overflow: hidden;
+}
+
+.main {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    /* background-color: black; */
+}
+
+.navParent {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    height: 8%;
+    padding: 5px;
+    /* background-color: rgb(193, 63, 63); */
+}
+
+.backParent {
+    display: flex;
+}
+
+.backParent:hover {
+    cursor: pointer;
+}
+
+.back {
+    font-size: 25px;
+}
+
+.back:hover {
+    text-decoration: underline;
+}
+
+.copyFormat {
+    background-color: black;
+    color: white;
+    display: flex;
+    align-items: center;
+    padding: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 10px;
+}
+
+.copyFormat:hover {
+    cursor: pointer;
+}
+
+.copy {
+    font-size: 13px;
+    font-weight: bold;
+}
+
+.sound {
+    font-size: 25px;
+}
+
+.sound:hover {
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.row-parent {
+    height: 100%;
+    width: 100%;
+}
+.row1 {
+    display: flex;
+    /* background-color: purple; */
+}
+
+.PROTOSS {
+    background-color: #00a8ff;
+}
+
+.color {
+    width: 90%;
+    height: 100px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    padding: 1%;
+}
+
+.txt-align {
+    color: white;
+    font-weight: bold;
+}
+
+.PERIWINKLE {
+    background-color: #9c88ff;
+}
+
+.RISE {
+    background-color: #fbc531;
+}
+
+.DOWNLOAD {
+    background-color: #4cd137;
+}
+
+.SEABROOK {
+    background-color: #487eb0;
+
+}
+
+.row2 {
+    display: flex;
+    /* background-color: purple; */
+}
+
+.VANADYL {
+    background-color: #0097e6;
+}
+
+.color {
+    width: 90%;
+    height: 100px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    padding: 1%; 
+}
+
+.txt-align {
+    color: white;
+    font-weight: bold;
+}
+
+.MATT {
+    background-color: #8c7ae6;
+}
+
+.GOLD {
+    background-color: #e1b12c;
+}
+
+.SKIRRET {
+    background-color: #44bd32;
+}
+
+.NAVAL {
+    background-color: #40739e;
+
+}
+.row3 {
+    display: flex;
+    /* background-color: purple; */
+}
+
+.NASTURCIAN {
+    background-color: #e84118;
+}
+
+.color {
+    width: 90%;
+    height: 100px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    padding: 1%;
+}
+
+.txt-align {
+    color: white;
+    font-weight: bold;
+}
+
+.LYNX {
+    background-color: #f5f6fa;
+}
+
+.SODA {
+    background-color: #7f8fa6;
+}
+
+.MAZARINE {
+    background-color: #273c75;
+}
+
+.BLUE {
+    background-color: #353b48;
+
+}
+.row4 {
+    display: flex;
+    /* background-color: purple; */
+}
+
+.HARLEY {
+    background-color: #c23616;
+}
+
+.color {
+    width: 90%;
+    height: 100px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    padding: 1%;
+}
+
+.txt-align {
+    color: white;
+    font-weight: bold;
+}
+
+.HINT {
+    background-color: #dcdde1;
+}
+
+.CHAIN {
+    background-color: #718093;
+}
+
+.PICO {
+    background-color: #192a56;
+}
+
+.ELECTROMAGNETIC {
+    background-color: #2f3640;
+
+}
