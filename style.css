@@ -1,0 +1,14 @@
+body{
+    background: rgb(238,174,202);
+background: linear-gradient(0deg, rgba(238,174,202,1) 35%, rgba(148,187,233,1) 70%);
+ }
+ H1{
+    text-align: center;
+    padding: 50px;
+    
+ }
+ .patrick-hand-regular {
+    font-family: "Patrick Hand", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
